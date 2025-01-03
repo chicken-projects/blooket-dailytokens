@@ -9,6 +9,8 @@ start a solo match in factory (MAKE SURE DEVTOOLS NETWORK TAB IS OPEN)<br>
 find "landings" and click on payload<br>
 copy the id after 't' and paste it into the tool.<br>
 now you can get up to 500 tokens and 300 xp!<br>
+you know that it worked if it gave a large output.<br>
+if you look at the end, you can see the daily tokens you got!<br>
 <br>
 p.s. you can click on fetch/xhr next to the selected all to find it easier!
 # first run
