@@ -23,4 +23,10 @@ if you want, you can check out my socials for help at http://chicken.bulletinbay
 <br>
 # faq
 q: it doesn't work anymore, what do i do?<br>
-a: when it asks for id, put w in and it will ask you for your cookie again, now redo the first run stuff!
+a: when it asks for id, put w in and it will ask you for your cookie again, now redo the first run stuff!<br>
+<br>
+q: is this a rat?<br>
+a: no, it's simple batch, just ask ai.<br>
+<br>
+q: what does this work on?<br>
+a: any windows device with cURL installed<br>
