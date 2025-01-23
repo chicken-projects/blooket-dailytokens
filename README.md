@@ -18,6 +18,12 @@ it will ask you for your blooket cookie, you can find this by going to network r
 then click on any network request and scroll down and find "cookie" to the left, then copy the big thing on the right side.<br>
 now paste it in, and it'll let you do everything now! go to instructions now.<br>
 <br>
+# disclaimer
+this will get your blooket account banned if you type more than 500 tokens and 300 xp.<br>
+you know if you did that if it responds "token hacks". your account is banned for a month.<br>
+i'm pretty sure i also got banned for a month after some uses, not sure if it's because<br>
+i've been using multiple times a day or if it just knows.<br>
+<br>
 # contact
 if you want, you can check out my socials for help at http://chicken.bulletinbay.com/socials.html
 <br>
